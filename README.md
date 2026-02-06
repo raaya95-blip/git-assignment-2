@@ -81,7 +81,7 @@ WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
 
 8. Submit the pull request.
 
-9. After the due date, I will accept one of the submitted pull requests.
+9. One of the submitted pull requests will be accepted after the due date, but pull requests must be submitted by everyone.
 
 ---
 
